@@ -12,8 +12,9 @@
 
 ### 数据格式转换
 
-[CelebA数据库转换为VOC、YOLO格式](http://blog.csdn.net/minstyrain/article/details/77888176)
+参见[CelebA数据库转换为VOC、YOLO格式](http://blog.csdn.net/minstyrain/article/details/77888176)
 
+转换好的标注文件，[百度网盘地址](http://pan.baidu.com/s/1nvtAemt) 密码：ued8
 
 ### 训练
 ```
