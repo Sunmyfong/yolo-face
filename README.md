@@ -8,7 +8,7 @@
 
 下载yolo v2，[推荐跨windows和linux的版本](https://github.com/AlexeyAB/darknet)，记为DARKNET_ROOT,然后将本项目置于DARKNET_ROOT下,Windows下双击Run.bat或者把要检测的图片拉到Run.bat上即可
 
-预训练好的模型（17000代，大小约193M）：[百度网盘地址](http://pan.baidu.com/s/1eRHUGnw)，密码：ioj7
+预训练好的模型（20000个batch，大小约60M）：[百度网盘地址](http://pan.baidu.com/s/1gfiXzwv)， 密码：v3w2
 
 ### 数据格式转换
 
